@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 8ba0e267817f4de4d9d2f49dc1798133
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: demg-04
+    100002: deng
+    100004: deng-01
+    100006: deng-02
+    100008: deng-03
+    100010: dianyuan
+    100012: dianyuan-01
+    100014: dianyuan-02
+    100016: dianyuan-03
+    100018: dianyuan-04
+    100020: dianyuan-05
+    100022: dianyuan-06
+    100024: dianyuan-07
+    100026: dianyuan-08
+    100028: dianyuan-09
+    100030: dianyuan-10
+    100032: dianyuan-11
+    100034: dianyuan-12
+    100036: dianyuan-13
+    100038: dianyuan-14
+    100040: dianyuan-15
+    100042: dianyuan-16
+    100044: gp-01
+    100046: gp-02
+    100048: guangpuyi
+    100050: //RootNode
+    100052: yaoshi
+    400000: demg-04
+    400002: deng
+    400004: deng-01
+    400006: deng-02
+    400008: deng-03
+    400010: dianyuan
+    400012: dianyuan-01
+    400014: dianyuan-02
+    400016: dianyuan-03
+    400018: dianyuan-04
+    400020: dianyuan-05
+    400022: dianyuan-06
+    400024: dianyuan-07
+    400026: dianyuan-08
+    400028: dianyuan-09
+    400030: dianyuan-10
+    400032: dianyuan-11
+    400034: dianyuan-12
+    400036: dianyuan-13
+    400038: dianyuan-14
+    400040: dianyuan-15
+    400042: dianyuan-16
+    400044: gp-01
+    400046: gp-02
+    400048: guangpuyi
+    400050: //RootNode
+    400052: yaoshi
+    2100000: 01 - Default
+    2100002: Mat3d66-513754-2-213
+    2100004: 03 - Default
+    2100006: 10 - Default
+    2100008: 09 - Default
+    2100010: 16 - Default
+    2100012: 17 - Default
+    2100014: 16 - Defaulta
+    2100016: 04 - Default
+    2100018: "15 - Default\u0412"
+    2300000: demg-04
+    2300002: deng-01
+    2300004: deng-02
+    2300006: deng-03
+    2300008: dianyuan-01
+    2300010: dianyuan-02
+    2300012: dianyuan-03
+    2300014: dianyuan-04
+    2300016: dianyuan-05
+    2300018: dianyuan-06
+    2300020: dianyuan-07
+    2300022: dianyuan-08
+    2300024: dianyuan-09
+    2300026: dianyuan-10
+    2300028: dianyuan-11
+    2300030: dianyuan-12
+    2300032: dianyuan-13
+    2300034: dianyuan-14
+    2300036: dianyuan-15
+    2300038: dianyuan-16
+    2300040: gp-01
+    2300042: gp-02
+    3300000: demg-04
+    3300002: deng-01
+    3300004: deng-02
+    3300006: deng-03
+    3300008: dianyuan-01
+    3300010: dianyuan-02
+    3300012: dianyuan-03
+    3300014: dianyuan-04
+    3300016: dianyuan-05
+    3300018: dianyuan-06
+    3300020: dianyuan-07
+    3300022: dianyuan-08
+    3300024: dianyuan-09
+    3300026: dianyuan-10
+    3300028: dianyuan-11
+    3300030: dianyuan-12
+    3300032: dianyuan-13
+    3300034: dianyuan-14
+    3300036: dianyuan-15
+    3300038: dianyuan-16
+    3300040: gp-01
+    3300042: gp-02
+    4300000: deng-02
+    4300002: demg-04
+    4300004: deng-01
+    4300006: deng-03
+    4300008: dianyuan-03
+    4300010: dianyuan-04
+    4300012: dianyuan-02
+    4300014: dianyuan-06
+    4300016: dianyuan-05
+    4300018: dianyuan-07
+    4300020: dianyuan-08
+    4300022: dianyuan-10
+    4300024: dianyuan-13
+    4300026: dianyuan-15
+    4300028: dianyuan-14
+    4300030: dianyuan-16
+    4300032: dianyuan-12
+    4300034: dianyuan-09
+    4300036: dianyuan-11
+    4300038: dianyuan-01
+    4300040: gp-02
+    4300042: gp-01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
